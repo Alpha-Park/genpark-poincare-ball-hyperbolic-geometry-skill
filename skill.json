@@ -1,0 +1,13 @@
+{
+  "name": "genpark-poincare-ball-hyperbolic-geometry-skill",
+  "version": "1.0.0",
+  "description": "Poincare Ball model of hyperbolic geometry computing exact Riemannian metric distances and Mobius gyrovector additions for hierarchical embeddings.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "hyperbolic-geometry",
+    "poincare-ball",
+    "manifold-optimization",
+    "hierarchical-embeddings"
+  ]
+}
